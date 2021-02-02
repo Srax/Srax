@@ -10,3 +10,12 @@
 
     
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srax&show_icons=true&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+### Software Development - Copenhagen Business Academy Lyngby
+<br>
+#### 1. Semester
+| Class       Grade |
+| ------------- | ------------- |
+| Large System Development  | 12  |
+| System Integration  | 10  |
+| System Testing | 10 |
