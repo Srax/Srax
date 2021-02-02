@@ -26,9 +26,9 @@
 
 |Class|My Grade DK|Grade US|
 |:--|--|--|
-|ALL|NaN|
-|MAL|NaN|
-|DSC|NaN|
-|DBD|NaN|  
-|UFO|NaN|  
+|ALL|
+|MAL|
+|DSC|
+|DBD|  
+|UFO|  
 </td></tr> </table>
