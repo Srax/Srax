@@ -19,3 +19,22 @@
 | Large System Development      | 12  
 | System Integration     | 10  
 | System Testing | 10
+
+
+<table>
+<tr><th>1. Semestre</th><th>2. Semestre</th></tr>
+<tr><td>
+
+|Class|My Grade|
+|:--|--|
+|Large System Devlopment|12|
+|System Integration|10|
+|System Testing|10|
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
