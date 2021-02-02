@@ -14,8 +14,8 @@
 ### Software Development - Copenhagen Business Academy Lyngby
 <br>
 #### 1. Semester
-| Class       Grade |  
-| ------------- | ------------- |  
-| Large System Development  | 12  |  
-| System Integration  | 10  |  
-| System Testing | 10 |  
+
+|      Class              | My Grade  
+| -------------           |-------------------------------------------
+| Large System Development      | 12  
+| System Integration     | 10
