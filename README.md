@@ -12,15 +12,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srax&show_icons=true&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 ### Software Development - Copenhagen Business Academy Lyngby
-<h4>1. Semester</h4>  
-
-|      Class              | My Grade  
-| :-------------           | :-------------------------------------------:
-| Large System Development      | 12  
-| System Integration     | 10  
-| System Testing | 10
-
-
 <table>
 <tr><th>1. Semestre</th><th>2. Semestre</th></tr>
 <tr><td>
@@ -33,8 +24,11 @@
 
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-
+|Class|My Grade|
+|:--|--|
+|ALL|NaN|
+|MAL|NaN|
+|DSC|NaN|
+|DBD|NaN|  
+|UFO|NaN|  
 </td></tr> </table>
