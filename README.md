@@ -16,16 +16,16 @@
 <tr><th>1. Semestre</th><th>2. Semestre</th></tr>
 <tr><td>
 
-|Class|Grade|
-|:--|--|
-|Large System Devlopment|12|
-|System Integration|10|
-|System Testing|10|
+|Class|Grade DK| Grade US|
+|:--|--|--|
+|Large System Devlopment|12|A+|
+|System Integration|10|A|
+|System Testing|10|A|
 
 </td><td>
 
-|Class|My Grade|
-|:--|--|
+|Class|My Grade DK|Grade US|
+|:--|--|--|
 |ALL|NaN|
 |MAL|NaN|
 |DSC|NaN|
