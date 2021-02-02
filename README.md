@@ -9,8 +9,7 @@
 ![Srax](https://komarev.com/ghpvc/?username=srax&style=flat-square)
 
     
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srax&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srax&show_icons=true&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 ### Software Development - Copenhagen Business Academy Lyngby
 <h4>1. Semester</h4>  
