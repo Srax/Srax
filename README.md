@@ -16,6 +16,7 @@
 #### 1. Semester
 
 |      Class              | My Grade  
-| :-------------:           | :-------------------------------------------:
+| :-------------           | :-------------------------------------------:
 | Large System Development      | 12  
-| System Integration     | 10
+| System Integration     | 10  
+| System Testing | 10
