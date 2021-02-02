@@ -16,7 +16,7 @@
 <tr><th>1. Semestre</th><th>2. Semestre</th></tr>
 <tr><td>
 
-|Class|My Grade|
+|Class|Grade|
 |:--|--|
 |Large System Devlopment|12|
 |System Integration|10|
