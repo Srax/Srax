@@ -15,6 +15,6 @@
 #### 1. Semester  
 |Class|Grade DK| Grade EU| Grade US
 |:--|--|--|--|
-|Large System Devlopment|12|A|A+´|
+|Large System Devlopment|12|A|A+|
 |System Integration|10|B|A|
 |System Testing|10|B|A|
