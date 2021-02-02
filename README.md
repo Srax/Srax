@@ -13,7 +13,7 @@
 
 ### Software Development - Copenhagen Business Academy Lyngby
 <br>  
-#### 1 Semester
+<h4>1. Semester</h4>  
 
 |      Class              | My Grade  
 | :-------------           | :-------------------------------------------:
