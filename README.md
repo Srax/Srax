@@ -13,7 +13,7 @@
 
 ### Software Development - Copenhagen Business Academy Lyngby  
 #### 1. Semester  
-|Class|Grade DK| Grade EU| Grade US
+|Class| DK| ECTS | US
 |:--|--|--|--|
 |Large System Devlopment|12|A|A+|
 |System Integration|10|B|A|
