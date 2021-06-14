@@ -18,5 +18,6 @@
 |Large System Devlopment|12|A|A+|
 |System Integration|10|B|A|
 |System Testing|10|B|A|
-|Data Science|7|C|B+|
 |Databases for Developers|10|B|A|
+|Exploration & Presentation |10|B|A|
+|Data Science|7|C|B+|
