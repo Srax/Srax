@@ -20,4 +20,4 @@
 |System Testing|10|B|A|
 |Databases for Developers|10|B|A|
 |Exploration & Presentation |10|B|A|
-|Data Science|7|C|B+|
+|Data Science|07|C|B+|
