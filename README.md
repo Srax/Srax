@@ -1,4 +1,4 @@
-<h3>Hey 👋 I'm Tom!</h3>
+<h3>Hey 👋 I'm Tom.</h3>
 <h4>I am currently studying for a bachelor degree in Software Development</h4>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thomas-ebsen)
