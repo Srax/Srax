@@ -15,6 +15,7 @@
 |CLASS| DK| ECTS | US
 |:--|--|--|--|
 |Large System Devlopment|12|A|A+|
+|Internship|12|A|A+|
 |System Integration|10|B|A|
 |System Testing|10|B|A|
 |Databases for Developers|10|B|A|
