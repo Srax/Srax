@@ -14,6 +14,7 @@
 ### Software Development - Copenhagen Business Academy Lyngby  
 |CLASS| DK| ECTS | US
 |:--|--|--|--|
+|Final Project|12|A|A+|
 |Large System Devlopment|12|A|A+|
 |Internship|12|A|A+|
 |System Integration|10|B|A|
