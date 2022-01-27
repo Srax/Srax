@@ -1,5 +1,5 @@
 <h3>Hey 👋 I'm Tom.</h3>
-<h4>Bachelor of Software Development</h4>  
+<h4>Software Developer</h4>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thomas-ebsen)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://srax.dev/)
